@@ -20,25 +20,27 @@ An exploratory data analysis was carried out to understand the distribution of v
 ### Number of views by Price, Length and Width
 |       Price                      |          Length                       |        Width                 | 
 |:--------------------------------:|:-----------------------------------:  | :----------------------------| 
-|     ![](Price.PNG)               |     ![](Length.PNG)                   |         ![](width.PNG)       | 
+|     ![](Price.PNG)               |     ![](Length.PNG)                   |         ![](width.PNG)       |  
+
+The correlation of number of views to price, length, and width are 0.13856, 0.135011 and 0.157547respectively. This indicates that this variavles have no significant impact on the number of views a boat receives. 
 ### Views by Built Year
 ![](Year_built.PNG)   
-
+Newer boats get more views compared to older boats.
 ### Views by Boat Condition
 ![](Views_by_boat_condition.PNG)   
-
+Used boats get more views than new boats especially when it has a diesel engine.
 ### Views by Boat Type
 ![](Boat_type.PNG)   
-
+Motor Yatch and Sport Boat are the two most viewed boat category.
 ### Views by Boat Material Type
 ![](materials.PNG)   
-
+Boats made with GRP material gets the most views compared to boats made from other materials.
 ### Views by Boat Manufacturer
 ![](manufacturer_views.PNG)   
-
+The manufacturers with the most views all regard themselves as power boat manufacturers. 
 ### Countries with the most listings
 ![](Listings_country.PNG)   
-
+Most of the boats being listed are in Europe.
 ## Overview of findings
   * Views of a boat are not driven by price
   * Most Boats are Listed in Europe
